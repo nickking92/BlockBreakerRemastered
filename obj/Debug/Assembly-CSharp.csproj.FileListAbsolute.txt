@@ -1,0 +1,2 @@
+C:\Users\Nikola\Documents\Block Breaker remastered 2019 1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Nikola\Documents\Block Breaker remastered 2019 1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
